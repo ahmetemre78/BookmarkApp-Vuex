@@ -25,14 +25,14 @@
       "title": "Maçkolik",
       "description": "Maçkolik - Süper Lig Puan Durumu",
       "url": "https://www.mackolik.com/puan-durumu/türkiye-süper-lig/482ofyysbdbeoxauk19yg7tdt",
-      "editStatus": true,
+      "editStatus": false,
       "id": 6
     },
     {
       "title": "Kodluyoruz - Meet",
       "description": "Kodluyoruz Bootcamp Ders Linki",
       "url": "https://meet.google.com/reu-qazo-ogo",
-      "editStatus": true,
+      "editStatus": false,
       "id": 7
     }
   ]
