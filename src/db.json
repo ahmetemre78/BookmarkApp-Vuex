@@ -1,0 +1,39 @@
+{
+  "bookmarks": [
+    {
+      "id": 1,
+      "title": "Stackoverflow",
+      "description": "Yazılımcıların birbirlerine sorular sorabildikleri uygulama",
+      "url": "https://stackoverflow.com",
+      "editStatus": false
+    },
+    {
+      "title": "COVID-19 Bilgi",
+      "description": "T.C Sağlık Bakanlığı - COVID 19 Bilgilendirme Sayfası",
+      "url": "https://covid19.saglik.gov.tr",
+      "editStatus": false,
+      "id": 3
+    },
+    {
+      "title": "Github",
+      "description": "Github Platformu",
+      "url": "www.github.com",
+      "editStatus": false,
+      "id": 5
+    },
+    {
+      "title": "Maçkolik",
+      "description": "Maçkolik - Süper Lig Puan Durumu",
+      "url": "https://www.mackolik.com/puan-durumu/türkiye-süper-lig/482ofyysbdbeoxauk19yg7tdt",
+      "editStatus": true,
+      "id": 6
+    },
+    {
+      "title": "Kodluyoruz - Meet",
+      "description": "Kodluyoruz Bootcamp Ders Linki",
+      "url": "https://meet.google.com/reu-qazo-ogo",
+      "editStatus": true,
+      "id": 7
+    }
+  ]
+}
