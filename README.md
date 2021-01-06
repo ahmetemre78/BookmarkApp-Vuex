@@ -1,4 +1,7 @@
-# bookmark-app-vuex
+# Bookmark Uygulaması - Vue.js
+
+Bu Uygulamamızda json-server'ımız üzerinde bookmark ekleyip, çıkarma işlemleri yapabiliyoruz. Eklediğimiz bookmarklar üzerinde de değişiklikler yapıp, silme işlemleri yapabiliyoruz...
+
 
 ## Project setup
 ```
